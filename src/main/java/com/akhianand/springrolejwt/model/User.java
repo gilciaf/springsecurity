@@ -10,10 +10,8 @@ public class User {
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
     private long id;
-
     @Column
     private String username;
-
     @Column
     @JsonIgnore
     private String password;
@@ -23,7 +21,6 @@ public class User {
 
     @Column
     private String phone;
-
     @Column
     private String name;
 
