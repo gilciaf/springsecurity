@@ -1,4 +1,4 @@
-package com.akhianand.springrolejwt.model;
+package com.ciaf.springrolejwt.model;
 
 import javax.persistence.*;
 

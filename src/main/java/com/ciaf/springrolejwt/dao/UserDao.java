@@ -1,6 +1,6 @@
-package com.akhianand.springrolejwt.dao;
+package com.ciaf.springrolejwt.dao;
 
-import com.akhianand.springrolejwt.model.User;
+import com.ciaf.springrolejwt.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

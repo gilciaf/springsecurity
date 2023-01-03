@@ -1,4 +1,4 @@
-package com.akhianand.springrolejwt.config;
+package com.ciaf.springrolejwt.config;
 
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.SignatureException;
